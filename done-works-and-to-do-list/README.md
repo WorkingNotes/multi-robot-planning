@@ -13,3 +13,12 @@
 - to find the other manifold
 - no special skills, just following the user handbook
 - but some attentions in the handbook need to pay attention
+
+### June 5, 2018
+### Done work
+- finished assembling two UAVs
+### To do
+- update all firmwares
+- fly UAVs
+- determine a regular field for doing experiments
+- try to use one UAV to search the regular area

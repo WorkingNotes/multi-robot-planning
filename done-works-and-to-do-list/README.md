@@ -34,3 +34,10 @@
 - solve the connection problems between the moblie APP DJI GO and the remote controller
 - solve the older UAV's connection problems with its remote controller
 - fly UAVs
+
+### June 7, 2018
+#### Done works
+- solved the connection problems (my mobile phone couldn't connect DJI GO well with USB wire)
+- updated guidances firmware and calibrated all the sensers
+#### Faced problems
+- can't register a DJI developer

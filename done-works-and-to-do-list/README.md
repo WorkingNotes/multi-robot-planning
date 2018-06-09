@@ -41,3 +41,14 @@
 - updated guidances firmware and calibrated all the sensers
 #### Faced problems
 - can't register a DJI developer
+
+### June 8, 2018
+#### Done works
+- flied UAV
+
+### June 9, 2018
+#### Done works
+- runned example code on manifold while connecting with M100 and PC
+#### Faced problems
+- while running the example code, still exit some bugs except registion problems
+

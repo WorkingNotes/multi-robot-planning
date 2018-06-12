@@ -52,3 +52,6 @@
 #### Faced problems
 - while running the example code, still exit some bugs except registion problems
 
+### June 11, 2018
+#### Done
+- finish running examples on simulator
